@@ -1,0 +1,9 @@
+{
+	"name": "milligram-snippets-code",
+	"description": "Milligram Snippets for Code.",
+	"dependencies": [],
+	"sublime_text": "*",
+	"version": "0.0.2",
+	"platforms": ["*"],
+	"url": "https://github.com/milligram/snippets-code/"
+}
