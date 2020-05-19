@@ -1,9 +1,9 @@
 {
-	"name": "milligram-code",
+	"name": "milligram-vscode",
 	"description": "A minimalist CSS framework for VSCode.",
 	"dependencies": [],
 	"sublime_text": "*",
 	"version": "0.0.3",
 	"platforms": ["*"],
-	"url": "https://github.com/milligram/snippets-code/"
+	"url": "https://github.com/milligram/milligram-vscode/"
 }
