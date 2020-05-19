@@ -1,6 +1,6 @@
 {
-	"name": "milligram-snippets-code",
-	"description": "Milligram Snippets for Code.",
+	"name": "milligram-code",
+	"description": "A minimalist CSS framework for VSCode.",
 	"dependencies": [],
 	"sublime_text": "*",
 	"version": "0.0.2",
